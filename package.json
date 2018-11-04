@@ -1,0 +1,21 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "date-fns": "^1.29.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "html-pdf-chrome": "^0.5.0",
+    "joi": "^14.0.4",
+    "lodash": "^4.17.11"
+  }
+}
